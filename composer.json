@@ -1,6 +1,7 @@
 {
     "name": "reman0214/z-helper",
     "description": "一些公用方法",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Reman Gau",
