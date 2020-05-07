@@ -1,0 +1,19 @@
+{
+    "name": "reman0214/z-helper",
+    "description": "一些公用方法",
+    "authors": [
+        {
+            "name": "Reman Gau",
+            "email": "reman0214@163.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0",
+        "ext-mbstring": "*"
+    },
+    "autoload": {
+        "files": [
+            "src/helper.php"
+        ]
+    }
+}
